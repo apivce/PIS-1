@@ -8,5 +8,9 @@ namespace ConsoleApplication1
 {
     class stipe
     {
+         public void Metoda()
+        {
+
+        }
     }
 }
